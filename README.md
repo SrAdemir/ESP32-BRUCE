@@ -1,6 +1,10 @@
-# ESP32-BRUCE
+![bruce_top](https://github.com/user-attachments/assets/b64aa511-e6c0-4ef2-bad9-54a5fffe93bb)
+
+# CYD 
+ESP32-BRUCE
 I will update my yellow plate project, and how to place the components along this path. and with bruce.computer
-LINKS PRODUCTS :
+
+🛒LINKS PRODUCTS :
 
 nrf24l01> https://pt.aliexpress.com/item/32757594224.html?spm=a2g0o.order_list.order_list_main.5.693fcaa4PQlgIL&gatewayAdapt=glo2bra
 
